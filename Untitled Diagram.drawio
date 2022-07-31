@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-31T17:23:38.522Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="hCJ8Fx_aO2mBdAry3CJa" version="16.6.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-07-31T17:29:43.497Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="3nYNEbEEknXd-BYtFfwt" version="16.6.6" type="github" pages="3">
   <diagram id="RdX9zCuVIToXpnvK45Qo" name="Page-1">
     <mxGraphModel dx="782" dy="411" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -159,82 +159,34 @@
         <mxCell id="-YutO_EF1KYmToRe50TH-0" />
         <mxCell id="-YutO_EF1KYmToRe50TH-1" parent="-YutO_EF1KYmToRe50TH-0" />
         <mxCell id="-YutO_EF1KYmToRe50TH-2" value="&lt;b&gt;Controller&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;strokeWidth=3;" vertex="1" parent="-YutO_EF1KYmToRe50TH-1">
-          <mxGeometry x="490" y="240" width="120" height="50" as="geometry" />
+          <mxGeometry x="540" y="240" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-YutO_EF1KYmToRe50TH-3" value="&lt;b&gt;Model&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;strokeWidth=3;" vertex="1" parent="-YutO_EF1KYmToRe50TH-1">
           <mxGeometry x="310" y="50" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-YutO_EF1KYmToRe50TH-4" value="&lt;b&gt;View&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;strokeWidth=3;" vertex="1" parent="-YutO_EF1KYmToRe50TH-1">
-          <mxGeometry x="110" y="240" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="-YutO_EF1KYmToRe50TH-5" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;User&lt;/font&gt;&lt;/b&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=17;strokeWidth=3;" vertex="1" parent="-YutO_EF1KYmToRe50TH-1">
-          <mxGeometry x="345" y="430" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-YutO_EF1KYmToRe50TH-10" value="" style="endArrow=none;html=1;rounded=0;fontSize=16;" edge="1" parent="-YutO_EF1KYmToRe50TH-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="170" y="130" as="sourcePoint" />
-            <mxPoint x="310" y="70" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="170" y="100" />
-              <mxPoint x="170" y="70" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-YutO_EF1KYmToRe50TH-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="-YutO_EF1KYmToRe50TH-1" source="-YutO_EF1KYmToRe50TH-13" target="-YutO_EF1KYmToRe50TH-4">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="90" y="240" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-YutO_EF1KYmToRe50TH-13" value="&lt;b&gt;Updates&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="-YutO_EF1KYmToRe50TH-1">
           <mxGeometry x="130" y="130" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-YutO_EF1KYmToRe50TH-16" value="" style="endArrow=none;html=1;rounded=0;fontSize=16;" edge="1" parent="-YutO_EF1KYmToRe50TH-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="560" y="240" as="sourcePoint" />
-            <mxPoint x="560" y="150" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-YutO_EF1KYmToRe50TH-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="-YutO_EF1KYmToRe50TH-1" source="-YutO_EF1KYmToRe50TH-17" target="-YutO_EF1KYmToRe50TH-3">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="440" y="70" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="560" y="70" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="-YutO_EF1KYmToRe50TH-17" value="&lt;b&gt;Manipulates&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="-YutO_EF1KYmToRe50TH-1">
           <mxGeometry x="500" y="130" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-YutO_EF1KYmToRe50TH-19" value="" style="endArrow=none;html=1;rounded=0;fontSize=16;entryX=0.433;entryY=1.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="-YutO_EF1KYmToRe50TH-1" target="-YutO_EF1KYmToRe50TH-4">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="220" y="360" as="sourcePoint" />
-            <mxPoint x="170" y="290" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-YutO_EF1KYmToRe50TH-20" value="&lt;b&gt;Sees&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="-YutO_EF1KYmToRe50TH-1">
-          <mxGeometry x="210" y="360" width="50" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="-YutO_EF1KYmToRe50TH-21" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="-YutO_EF1KYmToRe50TH-1" source="-YutO_EF1KYmToRe50TH-20" target="-YutO_EF1KYmToRe50TH-5">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="320" y="350" as="sourcePoint" />
-            <mxPoint x="390" y="320" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-YutO_EF1KYmToRe50TH-22" value="" style="endArrow=none;html=1;rounded=0;fontSize=16;" edge="1" parent="-YutO_EF1KYmToRe50TH-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="375" y="450" as="sourcePoint" />
-            <mxPoint x="450" y="390" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-YutO_EF1KYmToRe50TH-23" value="&lt;b&gt;Uses&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="-YutO_EF1KYmToRe50TH-1">
-          <mxGeometry x="430" y="370" width="50" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="-YutO_EF1KYmToRe50TH-24" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="-YutO_EF1KYmToRe50TH-1" target="-YutO_EF1KYmToRe50TH-2">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="470" y="380" as="sourcePoint" />
-            <mxPoint x="520" y="330" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="-YutO_EF1KYmToRe50TH-25" value="&lt;b&gt;Fig 3: Archetype (MVC Pattern)&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="-YutO_EF1KYmToRe50TH-1">
           <mxGeometry x="245" y="560" width="250" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-YutO_EF1KYmToRe50TH-26" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="-YutO_EF1KYmToRe50TH-1" source="-YutO_EF1KYmToRe50TH-3" target="-YutO_EF1KYmToRe50TH-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="220" as="sourcePoint" />
+            <mxPoint x="410" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-YutO_EF1KYmToRe50TH-27" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.572;entryY=-0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="-YutO_EF1KYmToRe50TH-1" source="-YutO_EF1KYmToRe50TH-3" target="-YutO_EF1KYmToRe50TH-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="525" y="100" as="sourcePoint" />
+            <mxPoint x="385" y="265" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
